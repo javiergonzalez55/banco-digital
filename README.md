@@ -1,23 +1,5 @@
-![](https://i.imgur.com/xG74tOh.png)
 
-# Desafio Módulo 2 - Back-end
 
-## Como entregar?
-
-- [ ] Faça o fork desse repositório para o seu GitHub
-- [ ] Clone o seu repositório em sua máquina
-- [ ] Desenvolva seu projeto, fazendo commits a cada alteração e push
-- [ ] Crie um PR (pull request)
-- [ ] Envie o link do pull request que você criou na plataforma da Cubos
-
-### ⚠️ Importante: Se o pull request não for criado e enviado na plataforma o feedback não será fornecido e constará como não entregue
-
-## Descrição do desafio
-
-Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
-Sua primeira tarefa como desenvolvedor é criar uma API para um Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
-
-Seu papel é construir uma RESTful API que permita:
 
 -   Criar conta bancária
 -   Listar contas bancárias
