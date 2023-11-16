@@ -43,7 +43,7 @@ As principais caracteristicas do sistema são: a implementação do conceito de 
 
 **COMO INSTALAR:**
 
-1.- Fazer um fork do repositorio [![banco digital]<https://github.com/javiergonzalez55/banco-digital>]
+1.- Fazer um fork do repositorio [Banco Digital](https://github.com/javiergonzalez55/banco-digital)
 
 2.- Clonar o repositorio se atentando em qual dos 3 metodos (chaves HTTPS - SSH - GitHub CLI) foi executado 
     para a configuração da su máquina
