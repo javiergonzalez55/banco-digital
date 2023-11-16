@@ -6,9 +6,11 @@ Trata-se de uma API RESTful para gerenciamento de contas bancarias, implementand
 
 **CARACTERISTICAS:**
 
-As principais caracteristicas do sistema são: a implementação do conceito de soft delete para desativar as contas, sem precisar exclui-las, o uso do arquivo bancodedados.json para persistir os dados na memoria do sistema usando a biblioteca nativa de JavaScript fs/promise para facilitar a leitura e escrita desse arquivo de dados, a organização do servidor separando controladores e roteadores (contas e transações) para permitir uma melhor compreensão do codigo na hora de revisar ou refatorar
+As principais caracteristicas do sistema são: 
 
-
+- A implementação do conceito de soft delete para desativar as contas, sem precisar exclui-las
+- O uso do arquivo bancodedados.json para persistir os dados na memoria do sistema usando a biblioteca nativa de JavaScript fs/promise para facilitar a leitura e escrita desse arquivo de dados
+- A organização do servidor separando controladores e roteadores (contas e transações) para permitir uma melhor compreensão do codigo na hora de revisar ou refatorar
 
 **FERRAMENTAS USADAS:**
 
@@ -46,9 +48,22 @@ As principais caracteristicas do sistema são: a implementação do conceito de 
 1.- Fazer um fork do repositorio [BancoDigital](https://github.com/javiergonzalez55/banco-digital)
 
 2.- Clonar o repositorio se atentando em qual dos 3 metodos (chaves HTTPS - SSH - GitHub CLI) foi executado 
-    para a configuração da su máquina
+    para a configuração da sua máquina
 
-3.- Conferir que seu repositorio local está executando na branch main 
+3.- Conferir que seu repositorio local está se executando na branch master
+
+4.- Na raiz do seu repositorio local, executar o comando: npm i, para instalar os pacotes implementados no sistema. Confira-se os pacotes dentro 
+    do package.json
+
+5.- Iniciar o servidor executando o comando: npm run dev 
+
+6.- Para requisitar o sistema através do cliente http: 
+- verificar qual o metodo rest (get, post, put, patch, delete) usado na rota que vai ser requistada
+- a url para chamar a rota correspondente é http://localhost:3000
+
+7.- Fazer as suas alterações no codigo, testar e salvar. Na sequencia, dar commit e subir as suas alterações
+
+As suas contribuções são sempre muito bem vindas!!!
 
 
 
