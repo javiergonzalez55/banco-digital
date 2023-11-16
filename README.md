@@ -6,8 +6,6 @@ Trata-se de uma API RESTful para gerenciamento de contas bancarias, implementand
 
 **CARACTERISTICAS:**
 
-As principais caracteristicas do sistema são: 
-
 - A implementação do conceito de soft delete para desativar as contas, sem precisar exclui-las
 - O uso do arquivo bancodedados.json para persistir os dados na memoria do sistema usando a biblioteca nativa de JavaScript fs/promise para facilitar a leitura e escrita desse arquivo de dados
 - A organização do servidor separando controladores e roteadores (contas e transações) para permitir uma melhor compreensão do codigo na hora de revisar ou refatorar
