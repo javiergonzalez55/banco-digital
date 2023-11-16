@@ -58,8 +58,8 @@ As principais caracteristicas do sistema são:
 5.- Iniciar o servidor executando o comando: npm run dev 
 
 6.- Para requisitar o sistema através do cliente http: 
-- verificar qual o metodo rest (get, post, put, patch, delete) usado na rota que vai ser requistada
-- a url para chamar a rota correspondente é http://localhost:3000
+- Verificar qual o metodo rest (get, post, put, patch, delete) usado na rota que vai ser requistada
+- Usar a url http://localhost:3000 para chamar a rota correspondente
 
 7.- Fazer as suas alterações no codigo, testar e salvar. Na sequencia, dar commit e subir as suas alterações
 
