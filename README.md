@@ -31,11 +31,19 @@ As principais caracteristicas do sistema são: a implementação do conceito de 
   * vscode
   * nodejs
   * git
+ 
+* Pacotes NPM:
+  * express
+  * date-fns
+  * nodemon
+  * fs/promise
 
 * Plataforma:
   * GitHub 
 
 **COMO INSTALAR:**
+
+
 
 
 
