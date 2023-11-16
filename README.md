@@ -43,23 +43,21 @@ Trata-se de uma API RESTful para gerenciamento de contas bancarias, implementand
 
 **COMO INSTALAR:**
 
-1.- Fazer um fork do repositorio [BancoDigital](https://github.com/javiergonzalez55/banco-digital)
+* Fazer um fork do repositorio [BancoDigital](https://github.com/javiergonzalez55/banco-digital)
 
-2.- Clonar o repositorio se atentando em qual dos 3 metodos (chaves HTTPS - SSH - GitHub CLI) foi executado 
-    para a configuração da sua máquina
+* Clonar o repositorio se atentando em qual dos 3 metodos (chaves HTTPS - SSH - GitHub CLI) foi executado para a configuração da sua máquina
 
-3.- Conferir que seu repositorio local está se executando na branch master
+* Conferir que seu repositorio local está se executando na branch master
 
-4.- Na raiz do seu repositorio local, executar o comando: npm i, para instalar os pacotes implementados no sistema. Confira-se os pacotes dentro 
-    do package.json
+* Na raiz do seu repositorio local, executar o comando: npm i, para instalar os pacotes implementados no sistema. Confira-se os pacotes dentro do package.json
 
-5.- Iniciar o servidor executando o comando: npm run dev 
+* Iniciar o servidor executando o comando: npm run dev 
 
-6.- Para requisitar o sistema através do cliente http: 
+* Para requisitar o sistema através do cliente http: 
 - Verificar qual o metodo rest (get, post, put, patch, delete) usado na rota que vai ser requistada
 - Usar a url http://localhost:3000 para chamar a rota correspondente
 
-7.- Fazer as suas alterações no codigo, testar e salvar. Na sequencia, dar commit e subir as suas alterações
+* Fazer as suas alterações no codigo, testar e salvar. Na sequencia, dar commit e subir as suas alterações
 
 As suas contribuções são sempre muito bem vindas!!!
 
