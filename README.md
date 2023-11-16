@@ -1,6 +1,8 @@
 # Projeto: Operações básicas do sistema bancario
 
 **SOBRE:**
+Trata-se de uma API RESTful para gerenciamento de contas bancarias, implementando as funcionalidades CRUD, tanto para a manipulação dos recursos de cada conta quanto a execução das transacões: consulta de saldo, depositos, saques e transferências. O projeto foi desenvolvido com NodeJs JavaScript, destacando o uso do conceito de soft delete, implementando a inativação e arquivo de contas sem serem de fato excluidas, para permitir a recuperação de dados e inclusive a reativação do cliente no sistema.
+
 
 
 
