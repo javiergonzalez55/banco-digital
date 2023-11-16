@@ -54,8 +54,8 @@ Trata-se de uma API RESTful para gerenciamento de contas bancarias, implementand
 * Iniciar o servidor executando o comando: npm run dev 
 
 * Para requisitar o sistema através do cliente http: 
-- Verificar qual o metodo rest (get, post, put, patch, delete) usado na rota que vai ser requistada
-- Usar a url http://localhost:3000 para chamar a rota correspondente
+  - Verificar qual o metodo rest (get, post, put, patch, delete) usado na rota que vai ser requistada
+  - Usar a url http://localhost:3000 para chamar a rota correspondente
 
 * Fazer as suas alterações no codigo, testar e salvar. Na sequencia, dar commit e subir as suas alterações
 
