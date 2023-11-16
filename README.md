@@ -61,9 +61,13 @@ Trata-se de uma API RESTful para gerenciamento de contas bancarias, implementand
 
 As suas contribuções são sempre muito bem vindas!!!
 
-
-
 **EM DESTAQUE:**
+
+Função que implementa o conceito de SOFT DELETE para inativar uma conta quando precisar arquiva-la
+![image](https://github.com/javiergonzalez55/banco-digital/assets/134230318/9592a5a5-0275-4d0a-b977-d15444a246ae)
+![image](https://github.com/javiergonzalez55/banco-digital/assets/134230318/b7b83122-fd9a-415c-9bfb-40328b64b9ab)
+
+
 
 
 
