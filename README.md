@@ -43,7 +43,12 @@ As principais caracteristicas do sistema são: a implementação do conceito de 
 
 **COMO INSTALAR:**
 
-Acessar 
+1.- Fazer um fork do repositorio <ccccccc>
+
+2.- Clonar o repositorio se atentando em qual dos 3 metodos (chaves HTTPS - SSH - GitHub CLI) foi executado 
+    para a configuração da su máquina
+
+3.- Conferir que seu repositorio local está executando na branch main 
 
 
 
